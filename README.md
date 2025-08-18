@@ -24,8 +24,8 @@
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- GitHub: [github.com/username](https://github.com/username)  
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/negar-karimi-webdeveloper)  
+- GitHub: [github.com/username](https://github.com/Negar-karimi9023)  
 
 ---
 
