@@ -1,5 +1,9 @@
 # Hi, I'm Negar 👋  
 
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+
+
 🌱 I’m currently learning **.NET 8, Angular, and SQL Server**  
 💡 Interested in building **Web APIs** and **frontend apps**  
 📚 I enjoy solving coding challenges and learning new technologies  
