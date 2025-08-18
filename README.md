@@ -33,8 +33,8 @@
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/negar-karimi-webdeveloper)  
-- GitHub: [github.com/username](https://github.com/Negar-karimi9023)  
+- LinkedIn: [linkedin.com/in/negar-karimi](https://linkedin.com/in/negar-karimi-webdeveloper)  
+- GitHub: [github.com/negar-karimi](https://github.com/Negar-karimi9023)  
 
 ---
 
