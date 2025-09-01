@@ -30,9 +30,9 @@
 ---
 
 ## 🚀 Featured Projects
-- [Contactly Web API](https://github.com/username/contactly)  
-- [Contactly Angular App](https://github.com/username/contactly.web)  
-- [Sample Portfolio](https://github.com/username/portfolio)  
+- [Contactly Web API](https://github.com/Negar-karimi9023/contactly)  
+- [Contactly Angular App](https://github.com/Negar-karimi9023/contactly.web)  
+- [Sample Portfolio](https://github.com/Negar-karimi9023/portfolio)  
 
 ---
 
