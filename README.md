@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [Contactly Web API](https://github.com/username/contactly.api)  
+- [Contactly Web API](https://github.com/username/contactly)  
 - [Contactly Angular App](https://github.com/username/contactly.web)  
 - [Sample Portfolio](https://github.com/username/portfolio)  
 
